@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "872330791530",
+    "firebase_url": "https://flutterfire-2e693.firebaseio.com",
+    "project_id": "flutterfire-2e693",
+    "storage_bucket": "flutterfire-2e693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872330791530:android:5c221359e48b7796a21813",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872330791530-58qkvebcp6j32fka882mer66vfldrk9u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_firebase",
+            "certificate_hash": "298fe0707dd984549ed813f61a4c1c6b7a3ad88e"
+          }
+        },
+        {
+          "client_id": "872330791530-kkg4ptu9nos21daqhnf9u6dm3aimk498.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOoodZm8swwLPynzDvUj9j2fqMY7tqfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872330791530-kkg4ptu9nos21daqhnf9u6dm3aimk498.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
